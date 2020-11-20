@@ -16,7 +16,7 @@ const BotName = 'WAWAN BOT'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/mridwanalb_'; // Nama Instagramlu cok
 const whatsapplu = 'wa.me/+6285718038695'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung Jaringan'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/JgI7cOjYS9n1ylO18YZ9ke'; // OFFICIAL GRUP LU 1
+const grupch1 = 'https://chat.whatsapp.com/HsXUnss5c2C848AtFDlz6L'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://m.youtube.com/channel/UCHX8S10Wbufc4iLPRoEySfw'; // OFFICIAL GRUP LU 2
 //
 const
